@@ -18,25 +18,11 @@
 <body id="body_events">
 <div id="main_wrap">
 
-<!-- START HEADER -->
-<div id="header1"></div>
-<div id="header2">Supporting Individuals with Disabilities and their Families</div>
-<!-- END HEADER -->
-
+<?php require_once('header.php'); ?>
 
 <div id="navigation">
-<!-- NAVIGATION INCLUDE -->
-<ul id="nav">
-<li><a href="index.php" >HOME</a></li>
-<li><a href="services.php" >SERVICES</a></li>
-<li><a href="gallery.php">GALLERY</a></li>
-<li><a href="support_us.php" >SUPPORT US</a></li>
-<li><a href="events.php" class="active hor_nav_first">EVENTS</a></li>
-
-<li><a href="resources.php" >RESOURCES</a></li>
-
-<li><a href="contact.php" >CONTACT</a></li>
-</ul></div>
+<?php require_once('navigation.php'); ?>
+</div>
 
 
 
@@ -57,25 +43,8 @@
 <div class="verse">.."By love serve one another."</div>
 Galatians 5:13
 <p>&nbsp;</p>
-<!-- START LOCATION INCLUDE -->
-<div class="right_clm_left_blockwide">
-<div class="clm">
-<h1>Office</h1>
-
-<p> 6 Oneida Drive, <br>
-Brantford, Ontario <br>
-N3S 7X8<br>
-Tel. 519 757-1554.</p>
-<p>Office Hours:<br>
-  Tuesday & Wednesday 10am-2pm<br>
-  Thursday 1-5pm </p>
-</div>
-<div class="clm">
-<h1>Our Homes</h1>
-<p>Peace Haven Homes <br>
-  6 & 8 Oneida Drive<br>
-  Brantford, Ontario N3S 7X8</div>
-</div>	</div>
+<?php require_once('location.php'); ?>
+	</div>
 </div><!-- END LEFT COLOUMN -->
 
 
@@ -220,23 +189,8 @@ Tel. 519 757-1554.</p>
 </div><!-- END BODY BLOCK -->
 </div>
 
-<!-- START FOOTER INCLUDE -->
-<div style="float:left; clear:both;"></div>
-<div style="display:block;margin: 0px auto 0px auto;">
+<?php require_once('footer2.php'); ?>
 
-
-<div id="footer3"><!--START FOOTER -->
-<div style="float:right; color:#FFFFFF; font-size:12px; padding:8px 20px 4px 20px;">
-Peace Haven | Tel. 519 757-1554
-</div>
-</div><!-- END FOOTER -->
-
-<div class="developer_tag2">
-Non-Profit Organization Site by <a href="http://www.pronkgraphics.com">Pronk Graphics</a> and maintained by Tanya Bouman<br> 
-</div>
-
-</div>
-<!-- END FOOTER INCLUDE -->
 
 
 <script type="text/javascript">

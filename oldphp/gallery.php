@@ -27,26 +27,12 @@
 <body>
 <div id="main_wrap">
 
-<!-- START HEADER -->
-<div id="header1"></div>
-<div id="header2">Supporting Individuals with Disabilities and their Families</div>
-<!-- END HEADER -->
-
+<?php require_once('header.php'); ?>
 
 <div id="navigation">
 
-<!-- NAVIGATION INCLUDE -->
-<ul id="nav">
-<li><a href="index.php" >HOME</a></li>
-<li><a href="services.php" >SERVICES</a></li>
-<li><a href="gallery.php"class="active hor_nav_first">GALLERY</a></li>
-<li><a href="support_us.php" >SUPPORT US</a></li>
-<li><a href="events.php" >EVENTS</a></li>
+<?php require_once('navigation.php'); ?>
 
-<li><a href="resources.php" >RESOURCES</a></li>
-
-<li><a href="contact.php" >CONTACT</a></li>
-</ul>
 </div>
 
 
@@ -192,32 +178,10 @@ Fullscreen:		<div class="fotorama" data-allowfullscreen="true">
 </div><!-- END BODY BLOCK -->
 </div>
 
-<!-- START FOOTER INCLUDE -->
-<div style="float:left; clear:both;"></div>
-<div style="display:block;margin: 0px auto 0px auto;">
+<?php require_once('footer2.php'); ?>
 
 
-<div id="footer3"><!--START FOOTER -->
-<div style="float:right; color:#FFFFFF; font-size:12px; padding:8px 20px 4px 20px;">
-Peace Haven | Tel. 519 757-1554
-</div>
-</div><!-- END FOOTER -->
+<?php require_once('analytics.php'); ?>
 
-<div class="developer_tag2">
-Non-Profit Organization Site by <a href="http://www.pronkgraphics.com">Pronk Graphics</a> and maintained by Tanya Bouman<br> 
-</div>
-
-</div>
-<!-- END FOOTER INCLUDE -->
-
-<!-- START ANALYTICS INCLUDE -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-520869-18");
-pageTracker._trackPageview();
-</script>
 </body>
 </html>
