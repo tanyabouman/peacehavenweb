@@ -38,25 +38,19 @@
 
 <li><a href="contact.php" class="active hor_nav_first">CONTACT</a></li>
 </ul>
-
-
 </div>
-
-
 
 <div id="content_wrap"><!-- START BODY BLOCK -->
 
-
-
 <div id="left_clm"><!-- START LEFT COLOUMN -->
 <div class="left_clm_item_wrap">
-	
+
 <!-- SIDEBAR -->
 <h1>Bible Quote</h1>
 <p>
 <div class="verse">"Now the God of peace be with you all."
 </div>
-Romans 15:33 			
+Romans 15:33
 </p>
 
 <p>
@@ -136,24 +130,24 @@ Ancaster, Ontario
 
 <!--Begin YouTube Embed-->
 <p>
-<iframe tabindex="-1" width="100%" height="150" src="https://www.youtube.com/embed/cRT-HUnEGys" style="min-width: 150px;" frameborder="0" scrolling="no">
+<iframe title="Peace Haven 2017 AGM Colin Postma" tabindex="-1" width="100%" height="150" src="https://www.youtube.com/embed/cRT-HUnEGys" style="min-width: 150px;" frameborder="0" scrolling="no">
 </iframe>
 <!--End YouTube Embed-->
 
 
 <p>
 <!--Begin SermonAudio Embed-->
-<iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/1114142252571/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
+<iframe title="Peace Haven 2014 AGM David Lipsy" tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/1114142252571/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
 <!--End SermonAudio Embed-->
 
 
 <p>
 <!--Begin SermonAudio Embed-->
-<iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/1117121859171/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
+<iframe title="Peace Haven 2012 AGM Kara Dedert" tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/1117121859171/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
 <!--End SermonAudio Embed-->
 
 <p>
-<iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/119111553157/" style="min-width: 50px;" frameborder="0" scrolling="no"></iframe>
+<iframe title="Peace Haven 2011 AGM Ben Short"tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/119111553157/" style="min-width: 50px;" frameborder="0" scrolling="no"></iframe>
 
 <!--
 <h1>THE SPIRITUAL DEVELOPMENT AND FUTURE PROSPECTS OF DEVELOPMENTALLY CHALLENGED CHILDREN by Rev. David Lipsy</h1>
@@ -164,31 +158,25 @@ Ancaster, Ontario
 <p> <a href="http://www.sermonaudio.com/sermoninfo.asp?SID=1117121859171" target="_blank";>Listen to speech on Sermonaudio</a>.
 </p>
 -->
-		
+
 </div>
 </div><!-- END LEFT COLOUMN -->
-
-
 
 <div id="right_clm"><!-- START RIGHT COLOUMN -->
 
 <div class="right_clm_item_wrap">
-
-
-
 
 <div style="border-bottom:1px dotted #999999; margin-bottom:10px;">
 
 <h1>Touching Lives </h1>
 <ul>
 <li>Contact us by email at peacehaven (dot) info (at) gmail (dot) com</li>
-</ul>	 	 
+</ul>
 
 <p>&nbsp;</p>
 </p>
 
 </div>
-
 
 <div class="-right_clm_left_block">
 <!-- START LOCATION INCLUDE -->
@@ -212,9 +200,8 @@ Tel. 519 757-1554.</p>
 </div>
 <p>&nbsp;</p>
 
-</div> 
+</div>
 <!-- END COLOUMN -->
-
 
 <div class="right_clm_right_block">
 
@@ -222,7 +209,6 @@ Tel. 519 757-1554.</p>
 
 <p></p>
 </div>
-
 
 </div><!-- END RIGHT COLOUMN WRAP -->
 
@@ -260,5 +246,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-520869-18");
 pageTracker._trackPageview();
 </script>
+
+
 </body>
 </html>
+

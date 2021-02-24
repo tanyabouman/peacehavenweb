@@ -1,4 +1,4 @@
 # Peace Haven Website Source
 
-Website [here](http://peacehaven.ca)
+Website [here](https://peacehaven.ca)
 

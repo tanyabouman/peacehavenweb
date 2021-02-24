@@ -4,7 +4,7 @@
     <p>
     <div class="verse">"As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith"
     </div>
-    Galatians 6:10			
+    Galatians 6:10
     </p>
 <?php elseif ($_SERVER['PHP_SELF'] == ("/services.php")) : ?>
     <p>
@@ -32,7 +32,7 @@
 <p>
 <div class="verse">"Now the God of peace be with you all."
 </div>
-Romans 15:33 			
+Romans 15:33
 </p>
 <?php endif;?>
 
@@ -44,24 +44,24 @@ Romans 15:33
 
 <!--Begin YouTube Embed-->
 <p>
-<iframe tabindex="-1" width="100%" height="150" src="https://www.youtube.com/embed/cRT-HUnEGys" style="min-width: 150px;" frameborder="0" scrolling="no">
+<iframe title="Peace Haven 2017 AGM Colin Postma" tabindex="-1" width="100%" height="150" src="https://www.youtube.com/embed/cRT-HUnEGys" style="min-width: 150px;" frameborder="0" scrolling="no">
 </iframe>
 <!--End YouTube Embed-->
 
 
 <p>
 <!--Begin SermonAudio Embed-->
-<iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/1114142252571/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
+<iframe title="Peace Haven 2014 AGM David Lipsy" tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/1114142252571/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
 <!--End SermonAudio Embed-->
 
 
 <p>
 <!--Begin SermonAudio Embed-->
-<iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/1117121859171/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
+<iframe title="Peace Haven 2012 AGM Kara Dedert" tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/1117121859171/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
 <!--End SermonAudio Embed-->
 
 <p>
-<iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/119111553157/" style="min-width: 50px;" frameborder="0" scrolling="no"></iframe>
+<iframe title="Peace Haven 2011 AGM Ben Short"tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/119111553157/" style="min-width: 50px;" frameborder="0" scrolling="no"></iframe>
 
 <!--
 <h1>THE SPIRITUAL DEVELOPMENT AND FUTURE PROSPECTS OF DEVELOPMENTALLY CHALLENGED CHILDREN by Rev. David Lipsy</h1>
