@@ -19,15 +19,17 @@
 <div id="main_wrap">
 
 <!-- START HEADER -->
+<div class="header" role="banner">
 <div id="header1"></div>
 <div id="header2">Supporting Individuals with Disabilities and their Families</div>
+</div>
 <!-- END HEADER -->
 
 
 <div id="navigation">
 
 <!-- NAVIGATION INCLUDE -->
-<ul id="nav">
+<ul id="nav" role="navigation">
 <li><a href="index.php" >HOME</a></li>
 <li><a href="services.php" >SERVICES</a></li>
 <li><a href="gallery.php">GALLERY</a></li>
@@ -38,6 +40,8 @@
 
 <li><a href="contact.php" class="active hor_nav_first">CONTACT</a></li>
 </ul>
+
+
 </div>
 
 <div id="content_wrap"><!-- START BODY BLOCK -->
@@ -46,6 +50,10 @@
 <div class="left_clm_item_wrap">
 
 <!-- SIDEBAR -->
+
+<!-- https://www.w3.org/WAI/tutorials/page-structure/regions/#accessupport -->
+<div id="sidebar" role="complementary">
+
 <h1>Bible Quote</h1>
 <p>
 <div class="verse">"Now the God of peace be with you all."
@@ -160,9 +168,12 @@ Ancaster, Ontario
 -->
 
 </div>
+
+
+</div>
 </div><!-- END LEFT COLOUMN -->
 
-<div id="right_clm"><!-- START RIGHT COLOUMN -->
+<div id="right_clm" role="main"><!-- START RIGHT COLOUMN -->
 
 <div class="right_clm_item_wrap">
 
@@ -224,18 +235,19 @@ Tel. 519 757-1554.</p>
 <div style="display:block;margin: 0px auto 0px auto;">
 
 
-<div id="footer3"><!--START FOOTER -->
+<div id="footer3" role="contentinfo"><!--START FOOTER -->
 <div style="float:right; color:#FFFFFF; font-size:12px; padding:8px 20px 4px 20px;">
 Peace Haven | Tel. 519 757-1554
 </div>
 </div><!-- END FOOTER -->
 
 <div class="developer_tag2">
-Non-Profit Organization Site by <a href="http://www.pronkgraphics.com">Pronk Graphics</a> and maintained by Tanya Bouman<br> 
+Non-Profit Organization Site by <a href="http://www.pronkgraphics.com">Pronk Graphics</a> and maintained by Tanya Bouman<br>
 </div>
 
 </div>
 <!-- END FOOTER INCLUDE -->
+
 
 <!-- START ANALYTICS INCLUDE -->
 <script type="text/javascript">

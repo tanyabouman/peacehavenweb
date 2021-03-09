@@ -30,7 +30,7 @@
 
 
 
-<div id="left_clm"><!-- START LEFT COLOUMN -->
+<div id="left_clm" role="complementary"><!-- START LEFT COLOUMN -->
 
 <div class="left_clm_item_wrap">
 
@@ -49,7 +49,7 @@ Galatians 5:13
 
 
 
-<div id="right_clm"><!-- START RIGHT COLOUMN -->
+<div id="right_clm" role="main"><!-- START RIGHT COLOUMN -->
 
 <div class="right_clm_item_wrap">
 

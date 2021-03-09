@@ -1,4 +1,8 @@
 <!-- SIDEBAR -->
+
+<!-- https://www.w3.org/WAI/tutorials/page-structure/regions/#accessupport -->
+<div id="sidebar" role="complementary">
+
 <h1>Bible Quote</h1>
 <?php if ($_SERVER['PHP_SELF'] == ("/index.php")) : ?>
     <p>
@@ -72,3 +76,6 @@ Romans 15:33
 <p> <a href="http://www.sermonaudio.com/sermoninfo.asp?SID=1117121859171" target="_blank";>Listen to speech on Sermonaudio</a>.
 </p>
 -->
+
+</div>
+

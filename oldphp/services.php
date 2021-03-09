@@ -42,7 +42,7 @@
 
 
 
-<div id="right_clm"><!-- START RIGHT COLOUMN -->
+<div id="right_clm" role="main"><!-- START RIGHT COLOUMN -->
 
 <div class="right_clm_item_wrap">
 
