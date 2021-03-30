@@ -6,7 +6,7 @@
 <meta name="keywords" content="">
 <meta name="robots" content="index,follow">
 
-<title>Peace Haven | Events</title>
+<title>Events | Peace Haven</title>
 
 <link href="style.css" rel="stylesheet" type="text/css">
 <style type="text/css">

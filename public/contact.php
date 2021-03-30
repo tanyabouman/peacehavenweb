@@ -6,7 +6,7 @@
 <meta name="keywords" content="">
 <meta name="robots" content="index,follow">
 
-<title>Peace Haven | Contact</title>
+<title>Contact | Peace Haven</title>
 
 <link href="style.css" rel="stylesheet" type="text/css">
 <style type="text/css">

@@ -6,7 +6,7 @@
 <meta name="keywords" content="">
 <meta name="robots" content="index,follow">
 
-<title>Peace Haven | Gallery</title>
+<title>Gallery | Peace Haven</title>
 
   <!-- jQuery -->
   <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
